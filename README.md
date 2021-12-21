@@ -1,7 +1,7 @@
 # 24hours-OnlineShop
 I was inpired by Amazon and Wayfair website to create this Ecommerce website. I built this site with ReactJS, CSS, Context API and Firebase. 
 
-# Main Hompage Section DEMO
+# Main Hompage Section. SEE DEMO: https://24hours-online-shop.netlify.app/
 
 
 
