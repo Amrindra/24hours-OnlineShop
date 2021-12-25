@@ -1,6 +1,8 @@
 # 24hours-OnlineShop
 I was inpired by Amazon and Wayfair website to create this Ecommerce website. I built this site with ReactJS, CSS, Context API and Firebase. 
 
+* If you want to add item into the cart you have to create a fake account first. e.g: abc@gmail.com for the password: abcd1234. You can choose your own fake email and password. 
+
 # Main Hompage Section. SEE DEMO: https://24hours-online-shop.netlify.app/
 
 
